@@ -18,7 +18,7 @@ npm install cypress --save-dev
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/amazon-cypress-tests.git
+git clone https://github.com/awais-ur-rehman/amazon_testing_Cypress.git
 ```
 
 2. Navigate to the project directory:
